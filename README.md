@@ -38,6 +38,14 @@ The typical structure includes:
 
 /src/hooks: Custom React hooks for Supabase and Clerk integration.​​
 
+
+### Make sure to create a `.env` file with following variables -
+
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
+VITE_CLERK_PUBLISHABLE_KEY=
+
+
 /src/styles: Tailwind CSS configuration and global styles.​
 
 /src/lib: Utility functions (e.g., for Supabase queries).​
