@@ -1,5 +1,5 @@
 # Full-Stack-Job-Portal
- Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI 
+ 
 A Full Stack Job Portal built with React JS, Tailwind CSS, Supabase, Clerk, and Shadcn UI combines modern web technologies to create a powerful and visually appealing platform for job seekers and recruiters. This type of project is ideal for showcasing full stack skills on GitHub, as it demonstrates expertise in frontend, backend, authentication, and UI component libraries.​​
 
 Project Overview
